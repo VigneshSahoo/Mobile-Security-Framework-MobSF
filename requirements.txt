@@ -25,3 +25,4 @@ cryptography<3.0,>=2.9 # pyup: ignore
 pyOpenSSL<19.2,>=19.1.0 # pyup: ignore
 http-tools==1.1.1
 libsast==1.2.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
